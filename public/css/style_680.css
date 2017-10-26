@@ -1,0 +1,73 @@
+body{
+    background: #4c01f5;
+}
+div.main {
+    width: 96%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+div.h1 {
+    height: 20%;
+    color: white;
+}
+div.main h1{
+    font-size: 36px;
+    text-align: center;
+}
+div.block{
+    border-radius: 2px;
+    padding: 5px;
+    background: #880df2;
+}
+h3.h3_form {
+    background: #880df2;
+    cursor: pointer;
+    color: azure;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+/**/
+h2.h3_form {    
+    color: azure;
+}
+a.link {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid white;
+    padding: 15px 20px;
+    margin-top: 20px;
+}
+a.link:hover {
+    background: #3300a7;
+}
+img.copy{
+    width: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+div.block p {
+    display: inline-block;
+}
+div.block a {
+    float: right;
+}
+
+
+.p_block{
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+.ui-accordion-header-active.ui-accordion-header-active{
+{
+    background: #99CCFF;
+    color: black;
+}
+h3.ui-accordion-header-active{
+    color: black;
+}
+
